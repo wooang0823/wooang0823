@@ -9,23 +9,6 @@
 | **악성 URL 분류** | Dacon  | Binary Classification | ✏️ **-/--(상위 -%)** | 팀원 |------|
 | **채무 불이행 여부 예측** | Dacon |  Binary Classification | ✏️ **--/--(상위 -%)** | 팀원 |------|
 
-
-
-
-
-
-
-
-#### Contact
-[![Gmail Badge](https://img.shields.io/badge/Email-qmdlghfl3%40naver.com-red?style=flat-square&logo=Gmail&logoColor=white)]()   
-[![Dacon Badge](https://img.shields.io/badge/Dacon-qmdlghfl2@gmail.com-blue?style=flat-square&logo=Dacon=white)]()
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=flat-square&logo=LinkedIn&logoColor=white)]()
-
-
-
-
-
-
 ##  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
