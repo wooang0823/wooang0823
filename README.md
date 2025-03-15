@@ -5,9 +5,9 @@
 #### ✏️ Projects
 | 대회명 | 주최 | Task | Rank | 역할 | 기타 | 
 |--------|------|------|------|------|------|
-| **상수도 관망 이상 감지 AI 알고리즘 개발** | Dacon / K-water | Binary Classification | ✏️ **107/486 (상위 26%)** | 리더 |------|
-| **악성 URL 분류** | Dacon  | Binary Classification | ✏️ **-/--(상위 -%)** | 리더 |------|
-| **채무 불이행 여부 예측** | Dacon |  Binary Classification | ✏️ **--/--(상위 -%)** | 리더 |------|
+| **상수도 관망 이상 감지 AI 알고리즘 개발** | Dacon / K-water | Binary Classification | ✏️ **107/486 (상위 26%)** | 팀원 |------|
+| **악성 URL 분류** | Dacon  | Binary Classification | ✏️ **-/--(상위 -%)** | 팀원 |------|
+| **채무 불이행 여부 예측** | Dacon |  Binary Classification | ✏️ **--/--(상위 -%)** | 팀원 |------|
 
 
 
